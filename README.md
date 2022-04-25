@@ -1,2 +1,2 @@
-# Ola Mundo
- segundo  repositorio versionado
+# Olá, Mundo!
+ Repositório criado durante uma aula ao vivo.
